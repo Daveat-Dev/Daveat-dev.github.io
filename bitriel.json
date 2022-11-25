@@ -3,7 +3,7 @@
 		"wss://rpc0.selendra.org",
 		"wss://rpc1.selendra.org"
 	],
-	"mainnet": [
+	"testnet": [
 		"wss://rpc-testnet.selendra.org",
 		"wss://rpc2-testnet.selendra.org"
 	],
