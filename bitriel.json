@@ -1,6 +1,6 @@
 {
 	"endpoints": [
-		"123",
-		"456"
+		"wss://rpc0.selendra.org",
+		"wss://rpc1.selendra.org"
 	]
 }
