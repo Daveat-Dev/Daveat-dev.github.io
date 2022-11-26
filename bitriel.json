@@ -6,6 +6,6 @@
 	"testnet": [
 		"wss://rpc-testnet.selendra.org",
 		"wss://rpc2-testnet.selendra.org"
-	],
+	]
 	
 }
