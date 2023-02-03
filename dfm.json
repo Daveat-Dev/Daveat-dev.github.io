@@ -1,6 +1,6 @@
 {
-  "LOGIN_API": "https://accounts.doformetaverse.com/",
-  "MDW_API": "https://backend.doformetaverse.com/api/",
-  "ws": "https://socket.doformetaverse.com",
+  "LOGIN_API": "https://accounts.doformetaverse.co/",
+  "MDW_API": "https://backend.doformetaverse.co/api/",
+  "ws": "https://socket.doformetaverse.co",
   "app_version": "v1.1.0"
 }
