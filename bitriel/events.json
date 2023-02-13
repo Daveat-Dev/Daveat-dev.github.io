@@ -1,4 +1,8 @@
-{
-  "type_1": "membership",
-  "type_2": "ticket",
-}
+[
+  {
+    "type_1": "membership"
+  },
+  {
+    "type_2": "ticket"
+  }
+]
