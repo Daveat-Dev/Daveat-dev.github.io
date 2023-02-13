@@ -1,4 +1,4 @@
 {
-  "type": "membership",
-  "addr": "0x638DFEC156d9F15F7Df5d4aa8f3A142eAC92335b"
+  "type_1": "membership",
+  "type_2": "ticket",
 }
