@@ -1,8 +1,8 @@
 [
   {
-    "type_1": "membership"
+    "type": "membership"
   },
   {
-    "type_2": "ticket"
+    "type": "ticket"
   }
 ]
