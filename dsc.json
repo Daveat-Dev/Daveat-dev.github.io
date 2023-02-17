@@ -1,3 +1,7 @@
 {
-  "LOGIN_API": "https://backend-test.dangkorsenchey.com/"
+  "LOGIN_API": "https://backend-test.dangkorsenchey.com/",
+  "admin_acc": {
+    "email": "san.vuthy08@gmail.com",
+    "password: "vuthy1997*"
+  }
 }
