@@ -1,6 +1,6 @@
 {
   "api": "https://backend.dangkorsenchey.com/",
-  "api_test": "https://backend-test.dangkorsenchey.com/",
+  "api_test": null,
   "admin_acc": {},
   "matches": [
     {
